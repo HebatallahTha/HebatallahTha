@@ -62,7 +62,7 @@ Check out my **[portfolio & project showcase](https://your-portfolio-link.com)**
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/heba-tharhan)  
-- [Portfolio]([https://your-portfolio-link.com](https://running-loyal-hippo-870.vscodeedu.app/))  
+- [Portfolio](https://running-loyal-hippo-870.vscodeedu.app/)  
 - [Email](mailto:hebatallahtharhan@gmail.com)  
 
 ---
