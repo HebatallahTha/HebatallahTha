@@ -56,7 +56,7 @@ I’ve worked on features ranging from dashboards 📊 and automation testing �
 - **Weather App ☀️** – Real-time Python app with API integration  
 - **EvacuAid 🌐** – Hackathon-winning team project for NosuAI  
 
-Check out my **[portfolio & project showcase](https://your-portfolio-link.com)** for more!  
+Check out my **[portfolio & project showcase](https://running-loyal-hippo-870.vscodeedu.app)** for more!  
 
 ---
 
