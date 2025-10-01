@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Heba Tharhan
 
-🌸 **Full-Stack Developer | Startup Starter | Baking Enthusiast**  
+🌸 **Full-Stack Developer | Startup Start | Baking Enthusiast**  
 
 I build fun, pastel-themed web apps, AI tools, and interactive projects. I love turning ideas into real products—like my **Baking Cubit** web app 🍰—and exploring new tech along the way!  
 
